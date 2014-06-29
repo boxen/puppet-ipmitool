@@ -2,7 +2,7 @@
 
 Installs ipmitool via homebrew.
 
-[![Build Status](https://travis-ci.org/boxen/puppet-template.svg?branch=master)](https://travis-ci.org/boxen/puppet-template)
+[![Build Status](https://travis-ci.org/leehuffman/puppet-ipmitool.svg?branch=master)](https://travis-ci.org/leehuffman/puppet-ipmitool)
 
 ## Usage
 
