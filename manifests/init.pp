@@ -4,7 +4,5 @@
 #
 #  include ipmitool
 class ipmitool {
-  include homebrew
-
   package { 'ipmitool': }
 }
